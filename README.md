@@ -1,0 +1,1 @@
+This repository contains some early explorations into the problem of Raman spectral matching algorithm in 2018 Fields-NRC industrial problem solving workshop(http://www.fields.utoronto.ca/activities/17-18/nrc-fields-ipsw).
